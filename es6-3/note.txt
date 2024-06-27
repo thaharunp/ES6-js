@@ -1,0 +1,20 @@
+ES
+
+1. class
+2.let,const
+3.()=>{}
+${}-read varible in the form of string
+[].form
+
+
+
+cann't use import out side module
+module.exports=tax; - ES5
+export defalut tax -- ES6
+defalut & named
+only one value - defalut meaing
+
+ES6 folder- cmd --
+Es6> npm init -y
+
+add new property:- "type" : "module"

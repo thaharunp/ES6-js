@@ -1,0 +1,15 @@
+ES6ImpExp> npm init -y
+pakage.json{
+    "type" : "module"
+}
+
+es5
+deflat
+named
+module.export=Account
+
+ES6
+deflat
+named
+export deflat Account
+import Account form './Account.js'
