@@ -7,5 +7,5 @@ user.sal=emp.sal;
 console.log(user)*/
 let user = { ...emp  }
 console.log(emp)
-
+console.log(user)
 // object not allowed duplicates
