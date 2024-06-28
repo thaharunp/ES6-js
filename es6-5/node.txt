@@ -1,0 +1,21 @@
+spead operater array and ids
+extract element copy into new array
+ex:-let eids=[101,102,103,104]
+let new_eids=[...eids]
+let a=[10,20,30,40] 
+let b=[30,40,50,60]
+let c=[...a , ...b]
+clg(10,20,30,40,50,60)
+let d=[...a,50,60,70]
+
+
+1. create new array
+2. merge arrays
+3. to extend Array elemts
+
+. create new objects
+2. merge objects
+3. to extend objects and properties
+
+1. setTimeout()
+   setInterval() it easy to aysicranas
